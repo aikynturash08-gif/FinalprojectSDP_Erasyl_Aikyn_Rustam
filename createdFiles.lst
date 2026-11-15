@@ -1,0 +1,6 @@
+com\parksmart\model\ParkingSpot$Status.class
+com\parksmart\model\Reservation.class
+com\parksmart\model\ParkingSession.class
+com\parksmart\model\Reservation$Status.class
+com\parksmart\model\Customer.class
+com\parksmart\model\ParkingSpot.class
